@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 26583,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-a-domain-controller-and-member-using-windows-azure-virtual-machines/master/Add-DomainControllerAndMemberServer.ps1",
+    "DownloadCount": 3488,
+    "Id": "Deploy-a-domain-controller-2ab7d658",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 385,
+    "RaterCount": 7,
+    "Rating": 4.7,
+    "ReleaseDate": "2013-9-12T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script demonstrates how to add a VM and script it to become a domain controller for a new forest, and add a member server to the domain, by adding them on the same VNet.",
+    "Title": "Deploy a domain controller and member using Windows Azure Virtual Machines",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-a-domain-controller-and-member-using-windows-azure-virtual-machines",
+    "UserTags": "VM Lifecycle Management, Provisioning"
+}
